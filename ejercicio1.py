@@ -1,6 +1,7 @@
-def rey ():
-  capoeira
-if x >3 :
-  rey = popo
+nombre = input("Ingresa tu nombre")
 
-  
+if nombre == David:
+  print("Puto detectado... presione -S- para salir del closset")
+
+
+

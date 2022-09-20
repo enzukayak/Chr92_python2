@@ -5,4 +5,9 @@ if nombre == David:
 
 else:
   print("forro ")
+  x=20
+
+def trolo () {
+  f = 3 + nombre 
+}
 
